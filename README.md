@@ -1,10 +1,10 @@
-<h1 align="center">👋 Привет, я Маргарита Павлова</h1>
-<h3 align="center">Студентка 4 курса РУТ (МИИТ) — Управление информационными системами</h3>
+<h1 align="center">👋 Привет, я Чибаев Артур</h1>
+<h3 align="center">Студент 4 курса РУТ (МИИТ) — Управление информационными системами</h3>
 
 <p align="center">
-  <a href="mailto:pavlova.margo31@gmail.com">📧 pavlova.margo31@gmail.com</a> • 
+  <a href="mailto:pavlova.margo31@gmail.com">📧 arturcibaev79001@gmail.com</a> • 
   <a href="https://t.me/margaryta_p">💬 Telegram</a> • 
-  📞 +7 (996) 988-40-03
+  📞 +7-977-280-60-53
 </p>
 
 ---
