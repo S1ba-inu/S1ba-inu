@@ -5,6 +5,10 @@
   <a href="mailto:pavlova.margo31@gmail.com">📧 arturcibaev79001@gmail.com</a> • 
   <a href="https://t.me/margaryta_p">💬 Telegram</a> • 
   📞 +7-977-280-60-53
+<p align="center">
+  <img width="300" alt="Мое фото" src="https://github.com/user-attachments/assets/95ee6136-19b6-48ae-95b2-d7d7675224f7">
+</p>
+)
 </p>
 
 ---
