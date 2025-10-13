@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:[your-email@example.com]">📧 Email</a> • 
+  <a href="mailto:[arturcibaev79001@gmail.com]">📧 Email</a> • 
   <a href="https://t.me/[your-telegram]">💬 Telegram</a>
 </p>
 
